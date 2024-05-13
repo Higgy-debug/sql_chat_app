@@ -67,3 +67,4 @@ Write only the SQL query without any additional text.
 Response Format:
     Question: {question}
     SQL Query:
+test
